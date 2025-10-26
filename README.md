@@ -140,7 +140,7 @@ Display:
 **To display the sensor readsings on the console:**
 - Install the necessary libraries:  dht.py
 - Connect the data pin (D4 in case of DHT Shield) to GPIO 0 on the pico W
-- Get the code from the repository: 
+- Get the code from the repository: https://github.com/Carenuity/Raspberry-Pi-Pico-W/blob/main/dht11.py 
 
 ![WhatsApp Image 2025-10-27 at 1 34 16 AM (1)](https://github.com/user-attachments/assets/fe077513-15c6-449f-924d-dc56cdc6a65d)
 
