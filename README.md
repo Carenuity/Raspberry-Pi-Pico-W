@@ -135,14 +135,29 @@ Display:
 
 ![WhatsApp Image 2025-10-27 at 12 48 31 AM](https://github.com/user-attachments/assets/7b1a02d8-6bd8-4f50-b262-d5bdfcd18aea) 
 
-## 6. Connecting and programming a sensor to the Pico W:
+## Connecting and programming a sensor(DHT11) to the Pico W:
 
-Code: 
+**To display the sensor readsings on the console:**
+- Install the necessary libraries:  dht.py
+- Connect the data pin (D4 in case of DHT Shield) to GPIO 0 on the pico W
+- Get the code from the repository: 
+
+![WhatsApp Image 2025-10-27 at 1 34 16 AM (1)](https://github.com/user-attachments/assets/fe077513-15c6-449f-924d-dc56cdc6a65d)
+
+
+
+**To display the sensor readsings on an OLED display (0.96 inch OLED display):**
+- Install the necessary libraries: ssd1306.py and dht.py
+- Connect the data pin (D4 in case of DHT Shield) to GPIO 0 on the pico W
+- Connect the SCL pin to GPIO9 and SCL Pin to GPIO8
+- Get the Code from the repository: https://github.com/Carenuity/Raspberry-Pi-Pico-W/blob/main/dht11_0.96OLED.py
+
+![WhatsApp Image 2025-10-27 at 1 34 12 AM](https://github.com/user-attachments/assets/003f16be-d02e-4633-a012-bc3bba3f6bbf)
 
 
 
 
+![WhatsApp Image 2025-10-27 at 1 34 12 AM (1)](https://github.com/user-attachments/assets/759748bd-26bc-4f03-8c82-17178f451d3f)
 
 
-
-
+![WhatsApp Image 2025-10-27 at 1 34 12 AM (2)](https://github.com/user-attachments/assets/3394badb-3344-49f9-939a-5e4d7d8b9b9a)
