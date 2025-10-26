@@ -61,6 +61,88 @@ These libraries come already included in the MicroPython firmware. You can use t
 
 Common examples include:
 
+<img width="741" height="365" alt="image" src="https://github.com/user-attachments/assets/b3ef932a-5418-45e6-b28b-04b06f4778f1" />
+
+Eg...
+
+<img width="504" height="307" alt="image" src="https://github.com/user-attachments/assets/cecbcfe9-7a15-48c5-9381-94aa4b679ba2" />
+
+
+B). External Libraries (Need to Be Downloaded and Uploaded)
+
+Some libraries are not built-in and must be added manually.
+These include drivers for sensors, displays, and additional modules such as:
+
+<img width="707" height="281" alt="image" src="https://github.com/user-attachments/assets/0db2bcc8-6912-4ddc-b9d3-d71f82e804b2" />
+
+**How to Upload External Libraries to the Pico W**
+
+1.	Download the required .py library files from trusted sources such as:
+
+-	MicroPython Library Repository: https://github.com/micropython/micropython-lib
+
+-	Sensor manufacturer’s GitHub (e.g., Adafruit, etc.)
+
+2.	Open Thonny IDE and connect your Pico W via USB.
+
+*Go to View → Files to open the file browser pane.*
+
+3.	In Thonny:
+
+-	The left top panel shows your computer files.
+-	The left bottom panel shows the files stored on your Pico W
+
+<img width="673" height="547" alt="image" src="https://github.com/user-attachments/assets/2d1bbef2-06d5-41c9-97e2-2bd2a4864f7d" />
+
+4.	Drag and drop or right-click → “Upload to /” to copy the library file to the Pico W.
+
+5.	Confirm the file appears in the right panel under /.
+
+6.	Once uploaded, you should see the library listed in the right-hand (Pico W) pane under 
+
+<img width="853" height="204" alt="image" src="https://github.com/user-attachments/assets/7bdaa2fd-ad8c-4bf7-9d0e-b26786cb5641" />
+
+## 4. Programming the Raspberry Pi Pico W
+
+Example: Blink the Onboard LED
+
+<img width="878" height="506" alt="image" src="https://github.com/user-attachments/assets/b4b356f0-8b4e-458c-8fa7-72e9c6b6aab8" />
+
+Running Code
+
+-	Save your code as blink.py. [To make it auto-run on boot, save as main.py]
+-	You can also click Run (▶) to execute manually from Thonny.
+
+https://github.com/user-attachments/assets/dfef3ef2-d570-4542-bace-dd1a96eb6d98
+
+With Carenuity's triple adapter:
+
+https://github.com/user-attachments/assets/dcfe16dd-37d6-450a-a259-b81665125249
+
+## 5. Interfacing with a 0.96’’ OLED Display (SSD1306) Wiring (I2C)
+
+<img width="292" height="267" alt="image" src="https://github.com/user-attachments/assets/ca828ea1-4c40-49dc-abda-73699bef768d" />
+
+Upload the ssd1306 library from: https://gist.github.com/cwyark/d7f2becd84b0b69b05a83315bf84c467 
+
+Example code: 
+
+<img width="859" height="543" alt="image" src="https://github.com/user-attachments/assets/32233f0c-d8f6-4e30-a2ac-a794d36866c2" />
+
+
+Display:
+
+
+![WhatsApp Image 2025-10-27 at 12 48 31 AM](https://github.com/user-attachments/assets/7b1a02d8-6bd8-4f50-b262-d5bdfcd18aea) 
+
+## 6. Connecting and programming a sensor to the Pico W:
+
+Code: 
+
+
+
+
+
 
 
 
