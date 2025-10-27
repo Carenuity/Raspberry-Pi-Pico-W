@@ -225,6 +225,33 @@ Setup:
 
 <img width="1493" height="492" alt="image" src="https://github.com/user-attachments/assets/c4943dd2-cd78-44a2-a684-35fde9e5f8aa" />
 
+### THINGSPEAK
+1.Create a ThingSpeak account from: https://thingspeak.mathworks.com/login?skipSSOCheck=true
+2.Create a new channel
+
+<img width="1273" height="165" alt="image" src="https://github.com/user-attachments/assets/cbe45d09-7438-4cc8-9c99-4500de02af02" />
+
+
+<img width="842" height="512" alt="image" src="https://github.com/user-attachments/assets/5db2e346-7eba-4b2a-93a9-8eeb3b20177c" />
+
+
+<img width="1086" height="229" alt="image" src="https://github.com/user-attachments/assets/dc771fd0-b00d-4413-85db-d44201029802" />
+
+
+3.Create 2 suitable fields: Temperature and Humidity
+
+<img width="842" height="512" alt="image" src="https://github.com/user-attachments/assets/65518d08-38db-414d-8d6b-3a6abd12aa0a" />
+
+
+4.Take note of the API Key
+
+<img width="842" height="516" alt="image" src="https://github.com/user-attachments/assets/b2304be5-f826-4711-9cd9-d2978de9d9dc" />
+
+
+5.Copy and paste the code from the repository: https://github.com/Carenuity/Raspberry-Pi-Pico-W/blob/main/dht11_0.96OLED_Thingspeak.py
+6.You will see:
+
+<img width="1281" height="425" alt="image" src="https://github.com/user-attachments/assets/bd87a27c-c966-4a76-b374-0c09a71a8645" />
 
 
 
