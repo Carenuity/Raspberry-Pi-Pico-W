@@ -193,7 +193,27 @@ Setup:
 
 <img width="722" height="439" alt="image" src="https://github.com/user-attachments/assets/b887f61c-32dd-49ad-a8ea-5167819e737a" />
 
-3.	select necessary feed ie. Temperature feed and Humidity Feed
+3.Create new block
+
+<img width="1793" height="386" alt="image" src="https://github.com/user-attachments/assets/30c946cd-8351-4cd0-a19c-fb423bec8721" />
+
+<img width="692" height="607" alt="image" src="https://github.com/user-attachments/assets/1371d48f-1448-4141-9018-29647611a196" />
+
+4.	select necessary feed ie. Temperature feed and Humidity Feed > Name block > create new block
+
+<img width="975" height="708" alt="image" src="https://github.com/user-attachments/assets/f0760cf2-f7f9-4b71-a52b-725603da5747" />
+
+5. You should have the following:
+
+<img width="1359" height="559" alt="image" src="https://github.com/user-attachments/assets/11b36c3e-4f7f-417e-868c-0841b0eaf327" />
+
+6.Take note of your Username and API Key
+
+<img width="1159" height="231" alt="image" src="https://github.com/user-attachments/assets/975c3c13-7793-4474-82ab-6e9a1eb3aba2" />
+
+
+<img width="677" height="508" alt="image" src="https://github.com/user-attachments/assets/b41aebc4-c821-4360-b3fd-db8080b73f88" />
+
 
 
 
