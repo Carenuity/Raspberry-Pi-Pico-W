@@ -1,4 +1,4 @@
-# Raspberry Pi Pico W 
+<img width="305" height="217" alt="image" src="https://github.com/user-attachments/assets/5fce73f8-206c-46ac-9b7f-036f5f4f5f50" /><img width="1493" height="492" alt="image" src="https://github.com/user-attachments/assets/3d2c9a72-50ec-4cc1-a71c-3d4a1937aedc" /># Raspberry Pi Pico W 
 
 A guide to getting started with the Raspberry Pi Pico W using MicroPython.
 
@@ -214,7 +214,18 @@ Setup:
 
 <img width="677" height="508" alt="image" src="https://github.com/user-attachments/assets/b41aebc4-c821-4360-b3fd-db8080b73f88" />
 
-7. Copy and Paste the code from the repository: 
+7. Copy and Paste the code from the repository: https://github.com/Carenuity/Raspberry-Pi-Pico-W/blob/main/dht11_0.96OLED_Adafruit.py
+
+- On the Console you will see:
+
+
+<img width="305" height="217" alt="image" src="https://github.com/user-attachments/assets/e8299a4a-fe09-430e-b052-2c1f135964fc" />
+
+-On the Adafruit IO Dashboards you will see:
+
+<img width="1493" height="492" alt="image" src="https://github.com/user-attachments/assets/c4943dd2-cd78-44a2-a684-35fde9e5f8aa" />
+
+
 
 
 
