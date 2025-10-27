@@ -161,3 +161,44 @@ Display:
 
 
 ![WhatsApp Image 2025-10-27 at 1 34 12 AM (2)](https://github.com/user-attachments/assets/3394badb-3344-49f9-939a-5e4d7d8b9b9a)
+
+## 6. Connecting to Wi-Fi
+
+<img width="519" height="397" alt="image" src="https://github.com/user-attachments/assets/7533a960-217c-4294-adc0-03ab96003804" />
+
+The display on the console:
+
+<img width="914" height="239" alt="image" src="https://github.com/user-attachments/assets/cee7cac6-7c7e-45b6-8e9d-db788de54866" />
+
+## 7. Sending Data to IoT Platforms
+
+### 8. Adafruit IO
+
+Adafruit IO provides MQTT-based dashboards and feeds.
+
+Setup:
+
+1.	Create an account at https://io.adafruit.com
+2.Create a new Feed. This is what will link your database to the code
+
+<img width="1713" height="266" alt="image" src="https://github.com/user-attachments/assets/c28a5922-65ab-4186-a54a-85b92bb3c553" />
+
+<img width="727" height="483" alt="image" src="https://github.com/user-attachments/assets/8eed1cf6-e77a-4b83-95ed-9eda0b26ca79" />
+
+<img width="709" height="478" alt="image" src="https://github.com/user-attachments/assets/c2e33255-b97e-4bbe-a978-8cf107058af6" />
+
+3. Create a new Dashboard. This is where your data will be ddisplayed in a graph
+
+<img width="1471" height="257" alt="image" src="https://github.com/user-attachments/assets/b23af6da-2643-4d37-aa61-e26160a643a8" />
+
+<img width="722" height="439" alt="image" src="https://github.com/user-attachments/assets/b887f61c-32dd-49ad-a8ea-5167819e737a" />
+
+3.	select necessary feed ie. Temperature feed and Humidity Feed
+
+
+
+
+
+
+
+
