@@ -35,13 +35,15 @@ oled = ssd1306.SSD1306_I2C(oled_width, oled_height, i2c)
 dataPin = Pin(2,Pin.OUT)
 sensor = dht.DHT11(dataPin)
 
+#Setup MQTT
+
 mqtt_server = 'io.adafruit.com'
 mqtt_port = 1883
 mqtt_user = ' '  # Enter your Adafruit username
 mqtt_password = ' '  # Enter your Adafruit AIO Key
 
-mqtt_topic_temp = 'Chumba4209/feeds/Temperature' #Edit your Feed name as createde
-mqtt_topic_hum = 'Chumba4209/feeds/Humidity'
+mqtt_topic_temp = 'Chumba4209/feeds/Temperature' #Edit your Feed name as created on Adafruit IO
+mqtt_topic_hum = 'Chumba4209/feeds/Humidity'  #Edit your Feed name as created on Adafruit IO
 
 mqtt_client_id = str(random.randint(10000, 999999))
 
