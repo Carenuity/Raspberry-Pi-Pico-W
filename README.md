@@ -1,4 +1,4 @@
-<img width="305" height="217" alt="image" src="https://github.com/user-attachments/assets/5fce73f8-206c-46ac-9b7f-036f5f4f5f50" /><img width="1493" height="492" alt="image" src="https://github.com/user-attachments/assets/3d2c9a72-50ec-4cc1-a71c-3d4a1937aedc" /># Raspberry Pi Pico W 
+# Raspberry Pi Pico W 
 
 A guide to getting started with the Raspberry Pi Pico W using MicroPython.
 
