@@ -214,7 +214,7 @@ Setup:
 
 <img width="677" height="508" alt="image" src="https://github.com/user-attachments/assets/b41aebc4-c821-4360-b3fd-db8080b73f88" />
 
-
+7. Copy and Paste the code from the repository: 
 
 
 
