@@ -337,8 +337,7 @@ In Firebase Console
 -	Click "Realtime Database" in the left sidebar
 -	You'll see your data in a tree structure
 
-
-
+<img width="1010" height="763" alt="image" src="https://github.com/user-attachments/assets/8c04d8e2-dd8b-4328-853d-27a6b853c8cf" />
 
 
 
