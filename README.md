@@ -254,6 +254,85 @@ Setup:
 <img width="1281" height="425" alt="image" src="https://github.com/user-attachments/assets/bd87a27c-c966-4a76-b374-0c09a71a8645" />
 
 
+### FIREBASE
+
+1. Create Firebase Account
+-	Go to Firebase Console: https://console.firebase.google.com/u/0/
+-	Click "Get Started" or "Go to Console"
+-	Sign in with your Google account (or create one if you don't have it)
+
+2. Create a New Project
+•	Click "Add project" or "Create a project"
+•	Enter a project name (e.g., DHT11-Sensor-Project)
+•	Click "Continue"
+•	Disable Google Analytics or leave it enabled
+•	Click "Create project"
+
+3. Set Up Realtime Database
+•	In the left sidebar, click "Build" → "Realtime Database"
+•	Click "Create Database"
+•	Select a location closest to you (e.g., us-central1)
+•	Choose "Start in test mode" (for development)
+
+> Note: Test mode allows public access. For production, you'll need to configure security rules.
+
+*Configure Database Rules*
+After creating the database:
+1.	Click the "Rules" tab
+2.	You'll see default rules. For testing, use: 
+
+<img width="252" height="146" alt="image" src="https://github.com/user-attachments/assets/c6cc41dc-a93f-4374-afad-0770f9deabae" />
+
+> Note: These rules allow anyone to read/write to your database. 
+
+
+4. Get Your Firebase URL
+•	In the Realtime Database page, look at the top
+•	You'll see your database URL: https://YOUR-PROJECT-ID-default-rtdb.firebaseio.com/
+•	Copy this URL - you'll need it for the code
+
+Example: https://dht11-firestore-717dd-default-rtdb.firebaseio.com/
+
+5. Enable Authentication
+•	In the left sidebar, click "Build" → "Authentication"
+•	Click "Get started"
+•	Go to the "Sign-in method" tab
+•	Click on "Email/Password"
+•	Toggle "Enable" to ON
+•	Click "Save"
+
+*Create a User Account*
+
+•	Go to the "Users" tab
+•	Click "Add user"
+•	Enter an email address (can be any email, doesn't need to be real) 
+>	Example: myproject@example.com
+•	Enter a password (minimum 6 characters) 
+>	Example: MySecurePass123
+•	Click "Add user"
+•	Save these credentials - you'll need them in your code
+
+6. Get Your API Key
+•	Click the gear icon ⚙️ next to "Project Overview" in the left sidebar
+•	Select "Project settings"
+•	Scroll down to the "Your apps" section
+•	Look for "Web API Key"
+•	Copy this key - you'll need it for authentication
+Example:
+AIzaSyAhZXCCUpwC8UlRKW1aJPDkw0nmfr4_mTo
+
+7. Configure the Code
+- Get the code from the repository: 
+- Edit the firebase URL, API, Wifi credentials on the code
+
+8. View Your Sensor Data
+
+In Firebase Console
+•	Go to Firebase Console
+•	Select your project
+•	Click "Realtime Database" in the left sidebar
+•	You'll see your data in a tree structure
+
 
 
 
